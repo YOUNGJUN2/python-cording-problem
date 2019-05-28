@@ -1,1 +1,1 @@
-# python-cording-problem
+# 심심풀이 코딩 문제 풀이
